@@ -35,5 +35,5 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 
 ## 📫 **Connect with Me**
 
-* LinkedIn: [sonvu]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/sonvuuu28/))
+* LinkedIn: [sonvu](https://www.linkedin.com/in/sonvuuu28/)
 * Email: [sonvu](mailto:vuthienson280104@gmail.com)
