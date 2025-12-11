@@ -37,3 +37,4 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 
 * LinkedIn: [sonvu](https://www.linkedin.com/in/sonvuuu28/)
 * Email: [sonvu](mailto:vuthienson280104@gmail.com)
+* Beacon: [sonvu](https://beacons.ai/sonvu280)
