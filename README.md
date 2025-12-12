@@ -13,5 +13,5 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 * Beacons: [sonvu](https://beacons.ai/sonvu280)
 * Portfolio: [sonvu](https://sonvuuu.netlify.app/)
 <div align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYndxdW1qMWV6d2gzeXBpaGMxZ2E3eDdvbDlmcnY0ZGJhaG5kbTlyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Wb28SSKNDTGOCptcJo/giphy.gif" width="200">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2tzMjhobnppM2ZoY3FtajM5Nm5pN2E5ZnlucnVsM3kzNTR5NWoyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zaaSnwcBurVnWq0AhJ/giphy.gif" width="200">
 </div>
