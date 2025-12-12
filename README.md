@@ -4,18 +4,6 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 
 ---
 
-## 🛠️ **Technical Skills**
-
-* **Programming:** Python, Java, SQL
-* **Data Storage:** MySQL, PostgreSQL, SQL Server, MongoDB, Cassandra
-* **Big Data & Streaming:** Apache Spark, PySpark, Kafka, Flink, Databricks
-* **ETL & Orchestration:** Airflow, Cron, PySpark jobs, SQL Procedures
-* **Data Visualization & Analytics:** Power BI, Tableau, Grafana
-* **Cloud & Infrastructure:** AWS, Azure, Docker, Git/GitHub
-* **Data Modeling:** Star Schema, Snowflake Schema, Data Lake & Data Warehouse design
-
----
-
 ## 🚀 **Projects Highlights**
 
 ### **Recruitment Data Pipeline (Real-time & Batch)**
