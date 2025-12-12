@@ -12,3 +12,6 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 * Email: [sonvu](mailto:vuthienson280104@gmail.com)
 * Beacons: [sonvu](https://beacons.ai/sonvu280)
 * Portfolio: [sonvu](https://sonvuuu.netlify.app/)
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXp2dTU3ZTgyZ2t6YWtnazF0d3BjYWxpejloMXNqNWphc3JpaHgzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BzDvnHUHdcinvusgn5/giphy.gif" width="200">
+</div>
