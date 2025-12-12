@@ -6,23 +6,6 @@ I am a **Data Engineer** passionate about building scalable data pipelines, desi
 
 ---
 
-## 🚀 **Projects Highlights**
-
-### **Recruitment Data Pipeline (Real-time & Batch)**
-
-* **Real-time streaming:** Kafka → Flink → MySQL → Grafana for live analytics and KPI dashboards.
-* **Scheduled batch ETL:** Cassandra → PySpark → MySQL, orchestrated via Airflow for historical data processing.
-* **Deployment:** Dockerized all services and deployed on a single server using GitHub for version control and CI/CD.
-* **Monitoring & Data Quality:** Implemented schema validation, pipeline health checks, and dashboards to ensure reliability and scalability.
-
-### **Customer 360 ETL Pipeline**
-
-* Built ETL pipelines to transform OLTP data into OLAP structures, supporting BI and reporting with RFM indexes.
-* Integrated AI models to categorize customer behavior and search inputs for personalized analytics.
-* Designed batch and mini-batch pipelines using PySpark, Flink, and Kafka, with orchestration via Airflow.
-
----
-
 ## 📫 **Connect with Me**
 
 * LinkedIn: [sonvu](https://www.linkedin.com/in/sonvuuu28/)
