@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Sơn Vũ — Data Engineer
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=32&weight=600&color=FF7A00&center=true&vCenter=true&width=600&height=70&duration=2000&pause=900&lines=👋+Hi,+I'm+Son+Vu;Data+Engineer+;" />
+</h1>
 
 I am a **Data Engineer** passionate about building scalable data pipelines, designing ETL/ELT workflows, and enabling data-driven decisions through analytics. I enjoy working with **Big Data technologies, cloud platforms, and real-time streaming systems** to transform raw data into actionable insights.
 
